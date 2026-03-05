@@ -1,4 +1,4 @@
-# Homework 5 for Neoversity
+# Homework 7 for Neoversity
 
 ## Тема 7. Робота з часом. Додаткові вбудовані SQL функції
 
